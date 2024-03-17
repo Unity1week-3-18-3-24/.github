@@ -4,7 +4,6 @@
 ## ファイル構造
 ```
 Asset
-|- 3DModel（3Dモデルのファイル）→.fbx・.obj形式のファイルとか
 |- Audio
 |    |- AudioSource（AudioSource形式のデータ群）
 |    |- AudioClip（AudioClip形式のデータ群）→.mp3・.wav形式のファイルとか
